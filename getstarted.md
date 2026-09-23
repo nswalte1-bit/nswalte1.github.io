@@ -248,19 +248,19 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 <style>
 
 .gs-section-01 h3 { 
-   color: red
+   color: red;
     font-size: 22px;
 }
 .gs-section-02 h3 { 
-   color: blue
+   color: blue;
     font-size: 22px;
 }
 .gs-section-03 h3 { 
-   color: orange
+   color: orange;
     font-size: 22px;
 }
 .gs-section-04 h3 { 
-   color: black
+   color: black;
     font-size: 22px;
 }
 
