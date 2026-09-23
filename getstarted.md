@@ -249,10 +249,20 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 .gs-section-01 h3 { 
    color: red
+    font-size: 22px;
 }
-
-
 .gs-section-02 h3 { 
    color: blue
+    font-size: 22px;
 }
+.gs-section-03 h3 { 
+   color: orange
+    font-size: 22px;
+}
+.gs-section-04 h3 { 
+   color: black
+    font-size: 22px;
+}
+
+   
 </style>
