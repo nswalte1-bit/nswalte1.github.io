@@ -14,7 +14,8 @@ description: Lab to practice web development
 author: Natasha Walters
 
 # define site url
-url: https://nswalte1-bit.github.io/nswalte1.github.io/
+url: https://nswalte1-bit.github.io
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
